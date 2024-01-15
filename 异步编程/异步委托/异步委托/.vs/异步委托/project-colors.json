@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c3ec782a-4115-44c5-bc65-ab7bbee589b7": {
+      "ProjectGuid": "c3ec782a-4115-44c5-bc65-ab7bbee589b7",
+      "DisplayName": "异步委托",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

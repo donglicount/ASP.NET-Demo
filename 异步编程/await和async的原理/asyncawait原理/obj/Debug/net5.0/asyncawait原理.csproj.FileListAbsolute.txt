@@ -1,0 +1,16 @@
+D:\杨中科ASP.NET\异步编程\await和async的原理\asyncawait原理\bin\Debug\net5.0\asyncawait原理.exe
+D:\杨中科ASP.NET\异步编程\await和async的原理\asyncawait原理\bin\Debug\net5.0\asyncawait原理.deps.json
+D:\杨中科ASP.NET\异步编程\await和async的原理\asyncawait原理\bin\Debug\net5.0\asyncawait原理.runtimeconfig.json
+D:\杨中科ASP.NET\异步编程\await和async的原理\asyncawait原理\bin\Debug\net5.0\asyncawait原理.runtimeconfig.dev.json
+D:\杨中科ASP.NET\异步编程\await和async的原理\asyncawait原理\bin\Debug\net5.0\asyncawait原理.dll
+D:\杨中科ASP.NET\异步编程\await和async的原理\asyncawait原理\bin\Debug\net5.0\ref\asyncawait原理.dll
+D:\杨中科ASP.NET\异步编程\await和async的原理\asyncawait原理\bin\Debug\net5.0\asyncawait原理.pdb
+D:\杨中科ASP.NET\异步编程\await和async的原理\asyncawait原理\obj\Debug\net5.0\asyncawait原理.csproj.AssemblyReference.cache
+D:\杨中科ASP.NET\异步编程\await和async的原理\asyncawait原理\obj\Debug\net5.0\asyncawait原理.GeneratedMSBuildEditorConfig.editorconfig
+D:\杨中科ASP.NET\异步编程\await和async的原理\asyncawait原理\obj\Debug\net5.0\asyncawait原理.AssemblyInfoInputs.cache
+D:\杨中科ASP.NET\异步编程\await和async的原理\asyncawait原理\obj\Debug\net5.0\asyncawait原理.AssemblyInfo.cs
+D:\杨中科ASP.NET\异步编程\await和async的原理\asyncawait原理\obj\Debug\net5.0\asyncawait原理.csproj.CoreCompileInputs.cache
+D:\杨中科ASP.NET\异步编程\await和async的原理\asyncawait原理\obj\Debug\net5.0\asyncawait原理.dll
+D:\杨中科ASP.NET\异步编程\await和async的原理\asyncawait原理\obj\Debug\net5.0\ref\asyncawait原理.dll
+D:\杨中科ASP.NET\异步编程\await和async的原理\asyncawait原理\obj\Debug\net5.0\asyncawait原理.pdb
+D:\杨中科ASP.NET\异步编程\await和async的原理\asyncawait原理\obj\Debug\net5.0\asyncawait原理.genruntimeconfig.cache
