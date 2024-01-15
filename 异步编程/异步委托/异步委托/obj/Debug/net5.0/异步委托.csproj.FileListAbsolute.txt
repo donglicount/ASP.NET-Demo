@@ -1,0 +1,16 @@
+D:\杨中科ASP.NET\异步编程\异步委托\异步委托\bin\Debug\net5.0\异步委托.exe
+D:\杨中科ASP.NET\异步编程\异步委托\异步委托\bin\Debug\net5.0\异步委托.deps.json
+D:\杨中科ASP.NET\异步编程\异步委托\异步委托\bin\Debug\net5.0\异步委托.runtimeconfig.json
+D:\杨中科ASP.NET\异步编程\异步委托\异步委托\bin\Debug\net5.0\异步委托.runtimeconfig.dev.json
+D:\杨中科ASP.NET\异步编程\异步委托\异步委托\bin\Debug\net5.0\异步委托.dll
+D:\杨中科ASP.NET\异步编程\异步委托\异步委托\bin\Debug\net5.0\ref\异步委托.dll
+D:\杨中科ASP.NET\异步编程\异步委托\异步委托\bin\Debug\net5.0\异步委托.pdb
+D:\杨中科ASP.NET\异步编程\异步委托\异步委托\obj\Debug\net5.0\异步委托.csproj.AssemblyReference.cache
+D:\杨中科ASP.NET\异步编程\异步委托\异步委托\obj\Debug\net5.0\异步委托.GeneratedMSBuildEditorConfig.editorconfig
+D:\杨中科ASP.NET\异步编程\异步委托\异步委托\obj\Debug\net5.0\异步委托.AssemblyInfoInputs.cache
+D:\杨中科ASP.NET\异步编程\异步委托\异步委托\obj\Debug\net5.0\异步委托.AssemblyInfo.cs
+D:\杨中科ASP.NET\异步编程\异步委托\异步委托\obj\Debug\net5.0\异步委托.csproj.CoreCompileInputs.cache
+D:\杨中科ASP.NET\异步编程\异步委托\异步委托\obj\Debug\net5.0\异步委托.dll
+D:\杨中科ASP.NET\异步编程\异步委托\异步委托\obj\Debug\net5.0\ref\异步委托.dll
+D:\杨中科ASP.NET\异步编程\异步委托\异步委托\obj\Debug\net5.0\异步委托.pdb
+D:\杨中科ASP.NET\异步编程\异步委托\异步委托\obj\Debug\net5.0\异步委托.genruntimeconfig.cache
