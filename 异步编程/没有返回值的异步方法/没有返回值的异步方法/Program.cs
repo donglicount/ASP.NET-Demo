@@ -52,6 +52,24 @@ namespace 没有返回值的异步方法
             }
         }
 
+        //不是简单的转发操作，就不能使用没有async的写法了
+        static async Task<string> ReadAsync2(int num)
+        {
+            if (num == 1)
+            {
+                string s=await File.ReadAllTextAsync(@"d:\a\1.txt");
+                return s + "ssssss";
+            }
+            if (num == 1)
+            {
+                string s = await File.ReadAllTextAsync(@"d:\a\2.txt");
+                return s + "ssssss";
+            }
+            else
+            {
+                return default;
+            }
+        }
         //async方法缺点：
         //1.异步方法会生成一个类，运行效率没有普通方法高；
         //2.可能会占用非常多的线程；
