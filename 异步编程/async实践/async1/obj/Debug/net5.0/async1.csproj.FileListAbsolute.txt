@@ -1,0 +1,16 @@
+D:\杨中科ASP.NET\异步编程\async实践\async1\bin\Debug\net5.0\async1.exe
+D:\杨中科ASP.NET\异步编程\async实践\async1\bin\Debug\net5.0\async1.deps.json
+D:\杨中科ASP.NET\异步编程\async实践\async1\bin\Debug\net5.0\async1.runtimeconfig.json
+D:\杨中科ASP.NET\异步编程\async实践\async1\bin\Debug\net5.0\async1.runtimeconfig.dev.json
+D:\杨中科ASP.NET\异步编程\async实践\async1\bin\Debug\net5.0\async1.dll
+D:\杨中科ASP.NET\异步编程\async实践\async1\bin\Debug\net5.0\ref\async1.dll
+D:\杨中科ASP.NET\异步编程\async实践\async1\bin\Debug\net5.0\async1.pdb
+D:\杨中科ASP.NET\异步编程\async实践\async1\obj\Debug\net5.0\async1.csproj.AssemblyReference.cache
+D:\杨中科ASP.NET\异步编程\async实践\async1\obj\Debug\net5.0\async1.GeneratedMSBuildEditorConfig.editorconfig
+D:\杨中科ASP.NET\异步编程\async实践\async1\obj\Debug\net5.0\async1.AssemblyInfoInputs.cache
+D:\杨中科ASP.NET\异步编程\async实践\async1\obj\Debug\net5.0\async1.AssemblyInfo.cs
+D:\杨中科ASP.NET\异步编程\async实践\async1\obj\Debug\net5.0\async1.csproj.CoreCompileInputs.cache
+D:\杨中科ASP.NET\异步编程\async实践\async1\obj\Debug\net5.0\async1.dll
+D:\杨中科ASP.NET\异步编程\async实践\async1\obj\Debug\net5.0\ref\async1.dll
+D:\杨中科ASP.NET\异步编程\async实践\async1\obj\Debug\net5.0\async1.pdb
+D:\杨中科ASP.NET\异步编程\async实践\async1\obj\Debug\net5.0\async1.genruntimeconfig.cache
