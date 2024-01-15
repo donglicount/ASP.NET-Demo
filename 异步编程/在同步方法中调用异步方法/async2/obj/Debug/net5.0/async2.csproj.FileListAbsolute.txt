@@ -1,0 +1,16 @@
+D:\杨中科ASP.NET\异步编程\在同步方法中调用异步方法\async2\bin\Debug\net5.0\async2.exe
+D:\杨中科ASP.NET\异步编程\在同步方法中调用异步方法\async2\bin\Debug\net5.0\async2.deps.json
+D:\杨中科ASP.NET\异步编程\在同步方法中调用异步方法\async2\bin\Debug\net5.0\async2.runtimeconfig.json
+D:\杨中科ASP.NET\异步编程\在同步方法中调用异步方法\async2\bin\Debug\net5.0\async2.runtimeconfig.dev.json
+D:\杨中科ASP.NET\异步编程\在同步方法中调用异步方法\async2\bin\Debug\net5.0\async2.dll
+D:\杨中科ASP.NET\异步编程\在同步方法中调用异步方法\async2\bin\Debug\net5.0\ref\async2.dll
+D:\杨中科ASP.NET\异步编程\在同步方法中调用异步方法\async2\bin\Debug\net5.0\async2.pdb
+D:\杨中科ASP.NET\异步编程\在同步方法中调用异步方法\async2\obj\Debug\net5.0\async2.csproj.AssemblyReference.cache
+D:\杨中科ASP.NET\异步编程\在同步方法中调用异步方法\async2\obj\Debug\net5.0\async2.GeneratedMSBuildEditorConfig.editorconfig
+D:\杨中科ASP.NET\异步编程\在同步方法中调用异步方法\async2\obj\Debug\net5.0\async2.AssemblyInfoInputs.cache
+D:\杨中科ASP.NET\异步编程\在同步方法中调用异步方法\async2\obj\Debug\net5.0\async2.AssemblyInfo.cs
+D:\杨中科ASP.NET\异步编程\在同步方法中调用异步方法\async2\obj\Debug\net5.0\async2.csproj.CoreCompileInputs.cache
+D:\杨中科ASP.NET\异步编程\在同步方法中调用异步方法\async2\obj\Debug\net5.0\async2.dll
+D:\杨中科ASP.NET\异步编程\在同步方法中调用异步方法\async2\obj\Debug\net5.0\ref\async2.dll
+D:\杨中科ASP.NET\异步编程\在同步方法中调用异步方法\async2\obj\Debug\net5.0\async2.pdb
+D:\杨中科ASP.NET\异步编程\在同步方法中调用异步方法\async2\obj\Debug\net5.0\async2.genruntimeconfig.cache

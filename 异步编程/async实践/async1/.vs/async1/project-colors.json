@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f7fd48dd-ea05-458d-8be5-ade47cda3c5d": {
+      "ProjectGuid": "f7fd48dd-ea05-458d-8be5-ade47cda3c5d",
+      "DisplayName": "async1",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
