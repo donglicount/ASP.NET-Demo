@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b3fc1b25-4683-4456-9cf5-a3e418ef4ac2": {
+      "ProjectGuid": "b3fc1b25-4683-4456-9cf5-a3e418ef4ac2",
+      "DisplayName": "asyncawait原理",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
