@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "异步方法不等于多线程", "异步方法不等于多线程.csproj", "{FAB38B0B-679E-4CAC-9D80-175F1F027717}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAB38B0B-679E-4CAC-9D80-175F1F027717}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAB38B0B-679E-4CAC-9D80-175F1F027717}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAB38B0B-679E-4CAC-9D80-175F1F027717}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAB38B0B-679E-4CAC-9D80-175F1F027717}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7885BCFF-F4B0-4275-8FD6-97C798A0844C}
+	EndGlobalSection
+EndGlobal

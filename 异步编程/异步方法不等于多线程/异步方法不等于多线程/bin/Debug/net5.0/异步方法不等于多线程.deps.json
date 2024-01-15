@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "异步方法不等于多线程/1.0.0": {
+        "runtime": {
+          "异步方法不等于多线程.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "异步方法不等于多线程/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

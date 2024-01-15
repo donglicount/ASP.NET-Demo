@@ -1,0 +1,16 @@
+D:\杨中科ASP.NET\异步编程\异步方法不等于多线程\异步方法不等于多线程\bin\Debug\net5.0\异步方法不等于多线程.exe
+D:\杨中科ASP.NET\异步编程\异步方法不等于多线程\异步方法不等于多线程\bin\Debug\net5.0\异步方法不等于多线程.deps.json
+D:\杨中科ASP.NET\异步编程\异步方法不等于多线程\异步方法不等于多线程\bin\Debug\net5.0\异步方法不等于多线程.runtimeconfig.json
+D:\杨中科ASP.NET\异步编程\异步方法不等于多线程\异步方法不等于多线程\bin\Debug\net5.0\异步方法不等于多线程.runtimeconfig.dev.json
+D:\杨中科ASP.NET\异步编程\异步方法不等于多线程\异步方法不等于多线程\bin\Debug\net5.0\异步方法不等于多线程.dll
+D:\杨中科ASP.NET\异步编程\异步方法不等于多线程\异步方法不等于多线程\bin\Debug\net5.0\ref\异步方法不等于多线程.dll
+D:\杨中科ASP.NET\异步编程\异步方法不等于多线程\异步方法不等于多线程\bin\Debug\net5.0\异步方法不等于多线程.pdb
+D:\杨中科ASP.NET\异步编程\异步方法不等于多线程\异步方法不等于多线程\obj\Debug\net5.0\异步方法不等于多线程.csproj.AssemblyReference.cache
+D:\杨中科ASP.NET\异步编程\异步方法不等于多线程\异步方法不等于多线程\obj\Debug\net5.0\异步方法不等于多线程.GeneratedMSBuildEditorConfig.editorconfig
+D:\杨中科ASP.NET\异步编程\异步方法不等于多线程\异步方法不等于多线程\obj\Debug\net5.0\异步方法不等于多线程.AssemblyInfoInputs.cache
+D:\杨中科ASP.NET\异步编程\异步方法不等于多线程\异步方法不等于多线程\obj\Debug\net5.0\异步方法不等于多线程.AssemblyInfo.cs
+D:\杨中科ASP.NET\异步编程\异步方法不等于多线程\异步方法不等于多线程\obj\Debug\net5.0\异步方法不等于多线程.csproj.CoreCompileInputs.cache
+D:\杨中科ASP.NET\异步编程\异步方法不等于多线程\异步方法不等于多线程\obj\Debug\net5.0\异步方法不等于多线程.dll
+D:\杨中科ASP.NET\异步编程\异步方法不等于多线程\异步方法不等于多线程\obj\Debug\net5.0\ref\异步方法不等于多线程.dll
+D:\杨中科ASP.NET\异步编程\异步方法不等于多线程\异步方法不等于多线程\obj\Debug\net5.0\异步方法不等于多线程.pdb
+D:\杨中科ASP.NET\异步编程\异步方法不等于多线程\异步方法不等于多线程\obj\Debug\net5.0\异步方法不等于多线程.genruntimeconfig.cache
