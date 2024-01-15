@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "awaitasync1", "awaitasync1.csproj", "{8219772B-6451-4D72-8CB0-C9430B5878BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8219772B-6451-4D72-8CB0-C9430B5878BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8219772B-6451-4D72-8CB0-C9430B5878BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8219772B-6451-4D72-8CB0-C9430B5878BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8219772B-6451-4D72-8CB0-C9430B5878BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E535859-1022-4092-8925-5BEE1CB1B63F}
+	EndGlobalSection
+EndGlobal

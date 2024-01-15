@@ -1,0 +1,16 @@
+D:\杨中科ASP.NET\异步编程\awiatasync1\awaitasync1\bin\Debug\net5.0\awaitasync1.exe
+D:\杨中科ASP.NET\异步编程\awiatasync1\awaitasync1\bin\Debug\net5.0\awaitasync1.deps.json
+D:\杨中科ASP.NET\异步编程\awiatasync1\awaitasync1\bin\Debug\net5.0\awaitasync1.runtimeconfig.json
+D:\杨中科ASP.NET\异步编程\awiatasync1\awaitasync1\bin\Debug\net5.0\awaitasync1.runtimeconfig.dev.json
+D:\杨中科ASP.NET\异步编程\awiatasync1\awaitasync1\bin\Debug\net5.0\awaitasync1.dll
+D:\杨中科ASP.NET\异步编程\awiatasync1\awaitasync1\bin\Debug\net5.0\ref\awaitasync1.dll
+D:\杨中科ASP.NET\异步编程\awiatasync1\awaitasync1\bin\Debug\net5.0\awaitasync1.pdb
+D:\杨中科ASP.NET\异步编程\awiatasync1\awaitasync1\obj\Debug\net5.0\awaitasync1.csproj.AssemblyReference.cache
+D:\杨中科ASP.NET\异步编程\awiatasync1\awaitasync1\obj\Debug\net5.0\awaitasync1.GeneratedMSBuildEditorConfig.editorconfig
+D:\杨中科ASP.NET\异步编程\awiatasync1\awaitasync1\obj\Debug\net5.0\awaitasync1.AssemblyInfoInputs.cache
+D:\杨中科ASP.NET\异步编程\awiatasync1\awaitasync1\obj\Debug\net5.0\awaitasync1.AssemblyInfo.cs
+D:\杨中科ASP.NET\异步编程\awiatasync1\awaitasync1\obj\Debug\net5.0\awaitasync1.csproj.CoreCompileInputs.cache
+D:\杨中科ASP.NET\异步编程\awiatasync1\awaitasync1\obj\Debug\net5.0\awaitasync1.dll
+D:\杨中科ASP.NET\异步编程\awiatasync1\awaitasync1\obj\Debug\net5.0\ref\awaitasync1.dll
+D:\杨中科ASP.NET\异步编程\awiatasync1\awaitasync1\obj\Debug\net5.0\awaitasync1.pdb
+D:\杨中科ASP.NET\异步编程\awiatasync1\awaitasync1\obj\Debug\net5.0\awaitasync1.genruntimeconfig.cache
