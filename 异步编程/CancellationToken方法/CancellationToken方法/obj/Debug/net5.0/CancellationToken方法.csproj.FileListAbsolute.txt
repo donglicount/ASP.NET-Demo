@@ -1,0 +1,16 @@
+F:\dotnet\异步编程\CancellationToken方法\CancellationToken方法\bin\Debug\net5.0\CancellationToken方法.exe
+F:\dotnet\异步编程\CancellationToken方法\CancellationToken方法\bin\Debug\net5.0\CancellationToken方法.deps.json
+F:\dotnet\异步编程\CancellationToken方法\CancellationToken方法\bin\Debug\net5.0\CancellationToken方法.runtimeconfig.json
+F:\dotnet\异步编程\CancellationToken方法\CancellationToken方法\bin\Debug\net5.0\CancellationToken方法.runtimeconfig.dev.json
+F:\dotnet\异步编程\CancellationToken方法\CancellationToken方法\bin\Debug\net5.0\CancellationToken方法.dll
+F:\dotnet\异步编程\CancellationToken方法\CancellationToken方法\bin\Debug\net5.0\CancellationToken方法.pdb
+F:\dotnet\异步编程\CancellationToken方法\CancellationToken方法\obj\Debug\net5.0\CancellationToken方法.GeneratedMSBuildEditorConfig.editorconfig
+F:\dotnet\异步编程\CancellationToken方法\CancellationToken方法\obj\Debug\net5.0\CancellationToken方法.AssemblyInfoInputs.cache
+F:\dotnet\异步编程\CancellationToken方法\CancellationToken方法\obj\Debug\net5.0\CancellationToken方法.AssemblyInfo.cs
+F:\dotnet\异步编程\CancellationToken方法\CancellationToken方法\obj\Debug\net5.0\CancellationToken方法.csproj.CoreCompileInputs.cache
+F:\dotnet\异步编程\CancellationToken方法\CancellationToken方法\obj\Debug\net5.0\CancellationToken方法.sourcelink.json
+F:\dotnet\异步编程\CancellationToken方法\CancellationToken方法\obj\Debug\net5.0\CancellationToken方法.dll
+F:\dotnet\异步编程\CancellationToken方法\CancellationToken方法\obj\Debug\net5.0\refint\CancellationToken方法.dll
+F:\dotnet\异步编程\CancellationToken方法\CancellationToken方法\obj\Debug\net5.0\CancellationToken方法.pdb
+F:\dotnet\异步编程\CancellationToken方法\CancellationToken方法\obj\Debug\net5.0\CancellationToken方法.genruntimeconfig.cache
+F:\dotnet\异步编程\CancellationToken方法\CancellationToken方法\obj\Debug\net5.0\ref\CancellationToken方法.dll
