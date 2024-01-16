@@ -1,0 +1,10 @@
+F:\dotnet\异步编程\异步sleep\asyncsleep\bin\Debug\asyncsleep.exe.config
+F:\dotnet\异步编程\异步sleep\asyncsleep\bin\Debug\asyncsleep.exe
+F:\dotnet\异步编程\异步sleep\asyncsleep\bin\Debug\asyncsleep.pdb
+F:\dotnet\异步编程\异步sleep\asyncsleep\obj\Debug\asyncsleep.csproj.AssemblyReference.cache
+F:\dotnet\异步编程\异步sleep\asyncsleep\obj\Debug\asyncsleep.Form1.resources
+F:\dotnet\异步编程\异步sleep\asyncsleep\obj\Debug\asyncsleep.Properties.Resources.resources
+F:\dotnet\异步编程\异步sleep\asyncsleep\obj\Debug\asyncsleep.csproj.GenerateResource.cache
+F:\dotnet\异步编程\异步sleep\asyncsleep\obj\Debug\asyncsleep.csproj.CoreCompileInputs.cache
+F:\dotnet\异步编程\异步sleep\asyncsleep\obj\Debug\asyncsleep.exe
+F:\dotnet\异步编程\异步sleep\asyncsleep\obj\Debug\asyncsleep.pdb
