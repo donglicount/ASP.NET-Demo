@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b90471e9-50a5-4dc2-a339-8cf85dd77b87": {
+      "ProjectGuid": "b90471e9-50a5-4dc2-a339-8cf85dd77b87",
+      "DisplayName": "async背后的线程切换",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
