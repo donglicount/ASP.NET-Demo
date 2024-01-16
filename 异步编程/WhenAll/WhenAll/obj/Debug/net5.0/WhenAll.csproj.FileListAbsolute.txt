@@ -1,0 +1,16 @@
+F:\dotnet\异步编程\WhenAll\WhenAll\bin\Debug\net5.0\WhenAll.exe
+F:\dotnet\异步编程\WhenAll\WhenAll\bin\Debug\net5.0\WhenAll.deps.json
+F:\dotnet\异步编程\WhenAll\WhenAll\bin\Debug\net5.0\WhenAll.runtimeconfig.json
+F:\dotnet\异步编程\WhenAll\WhenAll\bin\Debug\net5.0\WhenAll.runtimeconfig.dev.json
+F:\dotnet\异步编程\WhenAll\WhenAll\bin\Debug\net5.0\WhenAll.dll
+F:\dotnet\异步编程\WhenAll\WhenAll\bin\Debug\net5.0\WhenAll.pdb
+F:\dotnet\异步编程\WhenAll\WhenAll\obj\Debug\net5.0\WhenAll.GeneratedMSBuildEditorConfig.editorconfig
+F:\dotnet\异步编程\WhenAll\WhenAll\obj\Debug\net5.0\WhenAll.AssemblyInfoInputs.cache
+F:\dotnet\异步编程\WhenAll\WhenAll\obj\Debug\net5.0\WhenAll.AssemblyInfo.cs
+F:\dotnet\异步编程\WhenAll\WhenAll\obj\Debug\net5.0\WhenAll.csproj.CoreCompileInputs.cache
+F:\dotnet\异步编程\WhenAll\WhenAll\obj\Debug\net5.0\WhenAll.sourcelink.json
+F:\dotnet\异步编程\WhenAll\WhenAll\obj\Debug\net5.0\WhenAll.dll
+F:\dotnet\异步编程\WhenAll\WhenAll\obj\Debug\net5.0\refint\WhenAll.dll
+F:\dotnet\异步编程\WhenAll\WhenAll\obj\Debug\net5.0\WhenAll.pdb
+F:\dotnet\异步编程\WhenAll\WhenAll\obj\Debug\net5.0\WhenAll.genruntimeconfig.cache
+F:\dotnet\异步编程\WhenAll\WhenAll\obj\Debug\net5.0\ref\WhenAll.dll
