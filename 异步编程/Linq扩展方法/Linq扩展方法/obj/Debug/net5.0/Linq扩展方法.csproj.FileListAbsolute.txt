@@ -1,0 +1,16 @@
+D:\杨中科ASP.NET\异步编程\Linq扩展方法\Linq扩展方法\bin\Debug\net5.0\Linq扩展方法.exe
+D:\杨中科ASP.NET\异步编程\Linq扩展方法\Linq扩展方法\bin\Debug\net5.0\Linq扩展方法.deps.json
+D:\杨中科ASP.NET\异步编程\Linq扩展方法\Linq扩展方法\bin\Debug\net5.0\Linq扩展方法.runtimeconfig.json
+D:\杨中科ASP.NET\异步编程\Linq扩展方法\Linq扩展方法\bin\Debug\net5.0\Linq扩展方法.runtimeconfig.dev.json
+D:\杨中科ASP.NET\异步编程\Linq扩展方法\Linq扩展方法\bin\Debug\net5.0\Linq扩展方法.dll
+D:\杨中科ASP.NET\异步编程\Linq扩展方法\Linq扩展方法\bin\Debug\net5.0\ref\Linq扩展方法.dll
+D:\杨中科ASP.NET\异步编程\Linq扩展方法\Linq扩展方法\bin\Debug\net5.0\Linq扩展方法.pdb
+D:\杨中科ASP.NET\异步编程\Linq扩展方法\Linq扩展方法\obj\Debug\net5.0\Linq扩展方法.csproj.AssemblyReference.cache
+D:\杨中科ASP.NET\异步编程\Linq扩展方法\Linq扩展方法\obj\Debug\net5.0\Linq扩展方法.GeneratedMSBuildEditorConfig.editorconfig
+D:\杨中科ASP.NET\异步编程\Linq扩展方法\Linq扩展方法\obj\Debug\net5.0\Linq扩展方法.AssemblyInfoInputs.cache
+D:\杨中科ASP.NET\异步编程\Linq扩展方法\Linq扩展方法\obj\Debug\net5.0\Linq扩展方法.AssemblyInfo.cs
+D:\杨中科ASP.NET\异步编程\Linq扩展方法\Linq扩展方法\obj\Debug\net5.0\Linq扩展方法.csproj.CoreCompileInputs.cache
+D:\杨中科ASP.NET\异步编程\Linq扩展方法\Linq扩展方法\obj\Debug\net5.0\Linq扩展方法.dll
+D:\杨中科ASP.NET\异步编程\Linq扩展方法\Linq扩展方法\obj\Debug\net5.0\ref\Linq扩展方法.dll
+D:\杨中科ASP.NET\异步编程\Linq扩展方法\Linq扩展方法\obj\Debug\net5.0\Linq扩展方法.pdb
+D:\杨中科ASP.NET\异步编程\Linq扩展方法\Linq扩展方法\obj\Debug\net5.0\Linq扩展方法.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Linq扩展方法/1.0.0": {
+        "runtime": {
+          "Linq扩展方法.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Linq扩展方法/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
