@@ -1,0 +1,16 @@
+D:\杨中科ASP.NET\异步编程\Linq_原理\Linq_原理\bin\Debug\net5.0\Linq_原理.exe
+D:\杨中科ASP.NET\异步编程\Linq_原理\Linq_原理\bin\Debug\net5.0\Linq_原理.deps.json
+D:\杨中科ASP.NET\异步编程\Linq_原理\Linq_原理\bin\Debug\net5.0\Linq_原理.runtimeconfig.json
+D:\杨中科ASP.NET\异步编程\Linq_原理\Linq_原理\bin\Debug\net5.0\Linq_原理.runtimeconfig.dev.json
+D:\杨中科ASP.NET\异步编程\Linq_原理\Linq_原理\bin\Debug\net5.0\Linq_原理.dll
+D:\杨中科ASP.NET\异步编程\Linq_原理\Linq_原理\bin\Debug\net5.0\ref\Linq_原理.dll
+D:\杨中科ASP.NET\异步编程\Linq_原理\Linq_原理\bin\Debug\net5.0\Linq_原理.pdb
+D:\杨中科ASP.NET\异步编程\Linq_原理\Linq_原理\obj\Debug\net5.0\Linq_原理.csproj.AssemblyReference.cache
+D:\杨中科ASP.NET\异步编程\Linq_原理\Linq_原理\obj\Debug\net5.0\Linq_原理.GeneratedMSBuildEditorConfig.editorconfig
+D:\杨中科ASP.NET\异步编程\Linq_原理\Linq_原理\obj\Debug\net5.0\Linq_原理.AssemblyInfoInputs.cache
+D:\杨中科ASP.NET\异步编程\Linq_原理\Linq_原理\obj\Debug\net5.0\Linq_原理.AssemblyInfo.cs
+D:\杨中科ASP.NET\异步编程\Linq_原理\Linq_原理\obj\Debug\net5.0\Linq_原理.csproj.CoreCompileInputs.cache
+D:\杨中科ASP.NET\异步编程\Linq_原理\Linq_原理\obj\Debug\net5.0\Linq_原理.dll
+D:\杨中科ASP.NET\异步编程\Linq_原理\Linq_原理\obj\Debug\net5.0\ref\Linq_原理.dll
+D:\杨中科ASP.NET\异步编程\Linq_原理\Linq_原理\obj\Debug\net5.0\Linq_原理.pdb
+D:\杨中科ASP.NET\异步编程\Linq_原理\Linq_原理\obj\Debug\net5.0\Linq_原理.genruntimeconfig.cache
