@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Linq_委托指向匿名方法/1.0.0": {
+        "runtime": {
+          "Linq_委托指向匿名方法.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Linq_委托指向匿名方法/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

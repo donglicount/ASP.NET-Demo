@@ -1,0 +1,16 @@
+D:\杨中科ASP.NET\异步编程\Linq_委托指向匿名方法\Linq_委托指向匿名方法\bin\Debug\net5.0\Linq_委托指向匿名方法.exe
+D:\杨中科ASP.NET\异步编程\Linq_委托指向匿名方法\Linq_委托指向匿名方法\bin\Debug\net5.0\Linq_委托指向匿名方法.deps.json
+D:\杨中科ASP.NET\异步编程\Linq_委托指向匿名方法\Linq_委托指向匿名方法\bin\Debug\net5.0\Linq_委托指向匿名方法.runtimeconfig.json
+D:\杨中科ASP.NET\异步编程\Linq_委托指向匿名方法\Linq_委托指向匿名方法\bin\Debug\net5.0\Linq_委托指向匿名方法.runtimeconfig.dev.json
+D:\杨中科ASP.NET\异步编程\Linq_委托指向匿名方法\Linq_委托指向匿名方法\bin\Debug\net5.0\Linq_委托指向匿名方法.dll
+D:\杨中科ASP.NET\异步编程\Linq_委托指向匿名方法\Linq_委托指向匿名方法\bin\Debug\net5.0\ref\Linq_委托指向匿名方法.dll
+D:\杨中科ASP.NET\异步编程\Linq_委托指向匿名方法\Linq_委托指向匿名方法\bin\Debug\net5.0\Linq_委托指向匿名方法.pdb
+D:\杨中科ASP.NET\异步编程\Linq_委托指向匿名方法\Linq_委托指向匿名方法\obj\Debug\net5.0\Linq_委托指向匿名方法.csproj.AssemblyReference.cache
+D:\杨中科ASP.NET\异步编程\Linq_委托指向匿名方法\Linq_委托指向匿名方法\obj\Debug\net5.0\Linq_委托指向匿名方法.GeneratedMSBuildEditorConfig.editorconfig
+D:\杨中科ASP.NET\异步编程\Linq_委托指向匿名方法\Linq_委托指向匿名方法\obj\Debug\net5.0\Linq_委托指向匿名方法.AssemblyInfoInputs.cache
+D:\杨中科ASP.NET\异步编程\Linq_委托指向匿名方法\Linq_委托指向匿名方法\obj\Debug\net5.0\Linq_委托指向匿名方法.AssemblyInfo.cs
+D:\杨中科ASP.NET\异步编程\Linq_委托指向匿名方法\Linq_委托指向匿名方法\obj\Debug\net5.0\Linq_委托指向匿名方法.csproj.CoreCompileInputs.cache
+D:\杨中科ASP.NET\异步编程\Linq_委托指向匿名方法\Linq_委托指向匿名方法\obj\Debug\net5.0\Linq_委托指向匿名方法.dll
+D:\杨中科ASP.NET\异步编程\Linq_委托指向匿名方法\Linq_委托指向匿名方法\obj\Debug\net5.0\ref\Linq_委托指向匿名方法.dll
+D:\杨中科ASP.NET\异步编程\Linq_委托指向匿名方法\Linq_委托指向匿名方法\obj\Debug\net5.0\Linq_委托指向匿名方法.pdb
+D:\杨中科ASP.NET\异步编程\Linq_委托指向匿名方法\Linq_委托指向匿名方法\obj\Debug\net5.0\Linq_委托指向匿名方法.genruntimeconfig.cache
