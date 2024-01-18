@@ -73,6 +73,78 @@ namespace Linq扩展方法
             {
                 Console.WriteLine(e);
             }
+
+            //聚合函数
+            Console.WriteLine("聚合函数");
+
+            var a = items1.Max(a => a.Age);
+            Console.WriteLine("最大年龄"+a);
+            var avaSalary = items1.Average(a => a.Salary);
+            Console.WriteLine("平均工资"+avaSalary);
+
+            IEnumerable<IGrouping<int, Employee>> items = items1.GroupBy(e => e.Age);
+            foreach (var item in items)
+            {
+                Console.WriteLine("年龄:"+item.Key);
+                Console.WriteLine("最大工资："+item.Max(e=>e.Salary));
+                foreach (var i in item)
+                {
+                    Console.WriteLine("信息："+i);
+                }
+
+                Console.WriteLine("-------------------------------------");
+            }
+
+            //投影
+            //把集合中的每一项转换为另外一种类型
+            IEnumerable<int> ages = items1.Select(e => e.Age);
+            foreach (var age in ages)
+            {
+                Console.WriteLine(age);
+            }
+            IEnumerable<string> stingItems=items1.Select(e => e.Name+":"+e.Salary);
+            foreach (var s in stingItems)
+            {
+                Console.WriteLine(s);
+            }
+            IEnumerable<string> genderItems = items1.Select(e => e.Gender? "男":"女");
+            foreach (var s in genderItems)
+            {
+                Console.WriteLine(s);
+            }
+
+            IEnumerable<Dog> dogs = items1.Select(e => new Dog() { Id = e.Id, Name = e.Name });
+            foreach (var dog in dogs)
+            {
+                Console.WriteLine("dog:"+dog.Name+"-"+dog.Id);
+            }
+
+            //匿名类型
+            var cat = new { Id="1",Name="Cat"};
+            //投影与匿名类型
+            var students = items1.Select(e => new { XingMing = e.Name, Id = e.Id });
+            foreach (var student in students)
+            {
+                Console.WriteLine("学生："+student.Id+","+student.XingMing);
+            }
+
+            var lastItems = items1.GroupBy(e => e.Age).Select(g => new
+            {
+                Nianling = g.Key, MaxSalary = g.Max(e => e.Age),
+                MinSalary = g.Min(e => e.Salary), RenShu = g.Count()
+            });
+            foreach (var lastItem in lastItems)
+            {
+                Console.WriteLine(lastItem.MaxSalary+","+lastItem.MinSalary+","+lastItem.Nianling+","+lastItem.RenShu);
+            }
+
+            //获取Id>2的数据，然后按照Age分组，并且把分组按照Age排序，然后取出前3条，最后再投影取得年龄、人数、平均工资
+            var thelastItems = employees.Where(e => e.Id > 2).GroupBy(e => e.Age).OrderByDescending(g => g.Key).Take(3)
+                .Select(g => new { NianLing = g.Key, RenShu = g.Count(), Average = g.Average(e => e.Salary) });
+            foreach (var thelastItem in thelastItems)
+            {
+                Console.WriteLine("年龄："+thelastItem.NianLing+","+"人数："+thelastItem.RenShu+"平均工资："+thelastItem.Average);
+            }
         }
     }
 }
