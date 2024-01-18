@@ -1,0 +1,16 @@
+D:\杨中科ASP.NET\异步编程\Linq_查询语法\Linq_查询语法\bin\Debug\net5.0\Linq_查询语法.exe
+D:\杨中科ASP.NET\异步编程\Linq_查询语法\Linq_查询语法\bin\Debug\net5.0\Linq_查询语法.deps.json
+D:\杨中科ASP.NET\异步编程\Linq_查询语法\Linq_查询语法\bin\Debug\net5.0\Linq_查询语法.runtimeconfig.json
+D:\杨中科ASP.NET\异步编程\Linq_查询语法\Linq_查询语法\bin\Debug\net5.0\Linq_查询语法.runtimeconfig.dev.json
+D:\杨中科ASP.NET\异步编程\Linq_查询语法\Linq_查询语法\bin\Debug\net5.0\Linq_查询语法.dll
+D:\杨中科ASP.NET\异步编程\Linq_查询语法\Linq_查询语法\bin\Debug\net5.0\ref\Linq_查询语法.dll
+D:\杨中科ASP.NET\异步编程\Linq_查询语法\Linq_查询语法\bin\Debug\net5.0\Linq_查询语法.pdb
+D:\杨中科ASP.NET\异步编程\Linq_查询语法\Linq_查询语法\obj\Debug\net5.0\Linq_查询语法.csproj.AssemblyReference.cache
+D:\杨中科ASP.NET\异步编程\Linq_查询语法\Linq_查询语法\obj\Debug\net5.0\Linq_查询语法.GeneratedMSBuildEditorConfig.editorconfig
+D:\杨中科ASP.NET\异步编程\Linq_查询语法\Linq_查询语法\obj\Debug\net5.0\Linq_查询语法.AssemblyInfoInputs.cache
+D:\杨中科ASP.NET\异步编程\Linq_查询语法\Linq_查询语法\obj\Debug\net5.0\Linq_查询语法.AssemblyInfo.cs
+D:\杨中科ASP.NET\异步编程\Linq_查询语法\Linq_查询语法\obj\Debug\net5.0\Linq_查询语法.csproj.CoreCompileInputs.cache
+D:\杨中科ASP.NET\异步编程\Linq_查询语法\Linq_查询语法\obj\Debug\net5.0\Linq_查询语法.dll
+D:\杨中科ASP.NET\异步编程\Linq_查询语法\Linq_查询语法\obj\Debug\net5.0\ref\Linq_查询语法.dll
+D:\杨中科ASP.NET\异步编程\Linq_查询语法\Linq_查询语法\obj\Debug\net5.0\Linq_查询语法.pdb
+D:\杨中科ASP.NET\异步编程\Linq_查询语法\Linq_查询语法\obj\Debug\net5.0\Linq_查询语法.genruntimeconfig.cache
