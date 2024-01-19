@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "84c958c2-23f7-48da-848d-36bfb77b5988": {
+      "ProjectGuid": "84c958c2-23f7-48da-848d-36bfb77b5988",
+      "DisplayName": "Linq_委托指向匿名方法",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,16 @@
+D:\杨中科ASP.NET\异步编程\Linq面试知识\Linq面试知识\bin\Debug\net5.0\Linq面试知识.exe
+D:\杨中科ASP.NET\异步编程\Linq面试知识\Linq面试知识\bin\Debug\net5.0\Linq面试知识.deps.json
+D:\杨中科ASP.NET\异步编程\Linq面试知识\Linq面试知识\bin\Debug\net5.0\Linq面试知识.runtimeconfig.json
+D:\杨中科ASP.NET\异步编程\Linq面试知识\Linq面试知识\bin\Debug\net5.0\Linq面试知识.runtimeconfig.dev.json
+D:\杨中科ASP.NET\异步编程\Linq面试知识\Linq面试知识\bin\Debug\net5.0\Linq面试知识.dll
+D:\杨中科ASP.NET\异步编程\Linq面试知识\Linq面试知识\bin\Debug\net5.0\ref\Linq面试知识.dll
+D:\杨中科ASP.NET\异步编程\Linq面试知识\Linq面试知识\bin\Debug\net5.0\Linq面试知识.pdb
+D:\杨中科ASP.NET\异步编程\Linq面试知识\Linq面试知识\obj\Debug\net5.0\Linq面试知识.csproj.AssemblyReference.cache
+D:\杨中科ASP.NET\异步编程\Linq面试知识\Linq面试知识\obj\Debug\net5.0\Linq面试知识.GeneratedMSBuildEditorConfig.editorconfig
+D:\杨中科ASP.NET\异步编程\Linq面试知识\Linq面试知识\obj\Debug\net5.0\Linq面试知识.AssemblyInfoInputs.cache
+D:\杨中科ASP.NET\异步编程\Linq面试知识\Linq面试知识\obj\Debug\net5.0\Linq面试知识.AssemblyInfo.cs
+D:\杨中科ASP.NET\异步编程\Linq面试知识\Linq面试知识\obj\Debug\net5.0\Linq面试知识.csproj.CoreCompileInputs.cache
+D:\杨中科ASP.NET\异步编程\Linq面试知识\Linq面试知识\obj\Debug\net5.0\Linq面试知识.dll
+D:\杨中科ASP.NET\异步编程\Linq面试知识\Linq面试知识\obj\Debug\net5.0\ref\Linq面试知识.dll
+D:\杨中科ASP.NET\异步编程\Linq面试知识\Linq面试知识\obj\Debug\net5.0\Linq面试知识.pdb
+D:\杨中科ASP.NET\异步编程\Linq面试知识\Linq面试知识\obj\Debug\net5.0\Linq面试知识.genruntimeconfig.cache
