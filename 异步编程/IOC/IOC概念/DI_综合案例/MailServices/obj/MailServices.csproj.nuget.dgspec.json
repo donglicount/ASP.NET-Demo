@@ -1,0 +1,201 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\杨中科ASP.NET\\异步编程\\IOC\\IOC概念\\DI_综合案例\\MailServices\\MailServices.csproj": {}
+  },
+  "projects": {
+    "D:\\杨中科ASP.NET\\异步编程\\IOC\\IOC概念\\DI_综合案例\\ConfigServices\\ConfigServices.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\杨中科ASP.NET\\异步编程\\IOC\\IOC概念\\DI_综合案例\\ConfigServices\\ConfigServices.csproj",
+        "projectName": "ConfigServices",
+        "projectPath": "D:\\杨中科ASP.NET\\异步编程\\IOC\\IOC概念\\DI_综合案例\\ConfigServices\\ConfigServices.csproj",
+        "packagesPath": "C:\\Users\\75685\\.nuget\\packages\\",
+        "outputPath": "D:\\杨中科ASP.NET\\异步编程\\IOC\\IOC概念\\DI_综合案例\\ConfigServices\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\75685\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\杨中科ASP.NET\\异步编程\\IOC\\IOC概念\\DI_综合案例\\LogServices\\LogServices.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\杨中科ASP.NET\\异步编程\\IOC\\IOC概念\\DI_综合案例\\LogServices\\LogServices.csproj",
+        "projectName": "LogServices",
+        "projectPath": "D:\\杨中科ASP.NET\\异步编程\\IOC\\IOC概念\\DI_综合案例\\LogServices\\LogServices.csproj",
+        "packagesPath": "C:\\Users\\75685\\.nuget\\packages\\",
+        "outputPath": "D:\\杨中科ASP.NET\\异步编程\\IOC\\IOC概念\\DI_综合案例\\LogServices\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\75685\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\杨中科ASP.NET\\异步编程\\IOC\\IOC概念\\DI_综合案例\\MailServices\\MailServices.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\杨中科ASP.NET\\异步编程\\IOC\\IOC概念\\DI_综合案例\\MailServices\\MailServices.csproj",
+        "projectName": "MailServices",
+        "projectPath": "D:\\杨中科ASP.NET\\异步编程\\IOC\\IOC概念\\DI_综合案例\\MailServices\\MailServices.csproj",
+        "packagesPath": "C:\\Users\\75685\\.nuget\\packages\\",
+        "outputPath": "D:\\杨中科ASP.NET\\异步编程\\IOC\\IOC概念\\DI_综合案例\\MailServices\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\75685\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "D:\\杨中科ASP.NET\\异步编程\\IOC\\IOC概念\\DI_综合案例\\ConfigServices\\ConfigServices.csproj": {
+                "projectPath": "D:\\杨中科ASP.NET\\异步编程\\IOC\\IOC概念\\DI_综合案例\\ConfigServices\\ConfigServices.csproj"
+              },
+              "D:\\杨中科ASP.NET\\异步编程\\IOC\\IOC概念\\DI_综合案例\\LogServices\\LogServices.csproj": {
+                "projectPath": "D:\\杨中科ASP.NET\\异步编程\\IOC\\IOC概念\\DI_综合案例\\LogServices\\LogServices.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+D:\杨中科ASP.NET\异步编程\IOC\IOC概念\DI_综合案例\MailServices\bin\Debug\netstandard2.1\MailServices.deps.json
+D:\杨中科ASP.NET\异步编程\IOC\IOC概念\DI_综合案例\MailServices\bin\Debug\netstandard2.1\MailServices.dll
+D:\杨中科ASP.NET\异步编程\IOC\IOC概念\DI_综合案例\MailServices\bin\Debug\netstandard2.1\MailServices.pdb
+D:\杨中科ASP.NET\异步编程\IOC\IOC概念\DI_综合案例\MailServices\bin\Debug\netstandard2.1\ConfigServices.dll
+D:\杨中科ASP.NET\异步编程\IOC\IOC概念\DI_综合案例\MailServices\bin\Debug\netstandard2.1\LogServices.dll
+D:\杨中科ASP.NET\异步编程\IOC\IOC概念\DI_综合案例\MailServices\bin\Debug\netstandard2.1\ConfigServices.pdb
+D:\杨中科ASP.NET\异步编程\IOC\IOC概念\DI_综合案例\MailServices\bin\Debug\netstandard2.1\LogServices.pdb
+D:\杨中科ASP.NET\异步编程\IOC\IOC概念\DI_综合案例\MailServices\obj\Debug\netstandard2.1\MailServices.csproj.AssemblyReference.cache
+D:\杨中科ASP.NET\异步编程\IOC\IOC概念\DI_综合案例\MailServices\obj\Debug\netstandard2.1\MailServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\杨中科ASP.NET\异步编程\IOC\IOC概念\DI_综合案例\MailServices\obj\Debug\netstandard2.1\MailServices.AssemblyInfoInputs.cache
+D:\杨中科ASP.NET\异步编程\IOC\IOC概念\DI_综合案例\MailServices\obj\Debug\netstandard2.1\MailServices.AssemblyInfo.cs
+D:\杨中科ASP.NET\异步编程\IOC\IOC概念\DI_综合案例\MailServices\obj\Debug\netstandard2.1\MailServices.csproj.CoreCompileInputs.cache
+D:\杨中科ASP.NET\异步编程\IOC\IOC概念\DI_综合案例\MailServices\obj\Debug\netstandard2.1\MailServices.csproj.CopyComplete
+D:\杨中科ASP.NET\异步编程\IOC\IOC概念\DI_综合案例\MailServices\obj\Debug\netstandard2.1\MailServices.dll
+D:\杨中科ASP.NET\异步编程\IOC\IOC概念\DI_综合案例\MailServices\obj\Debug\netstandard2.1\MailServices.pdb

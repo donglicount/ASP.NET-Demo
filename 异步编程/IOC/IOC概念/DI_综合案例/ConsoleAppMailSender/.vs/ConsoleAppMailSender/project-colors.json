@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "062ebbfd-03c8-48b2-b132-6c497dfb4b59": {
+      "ProjectGuid": "062ebbfd-03c8-48b2-b132-6c497dfb4b59",
+      "DisplayName": "ConsoleAppMailSender",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

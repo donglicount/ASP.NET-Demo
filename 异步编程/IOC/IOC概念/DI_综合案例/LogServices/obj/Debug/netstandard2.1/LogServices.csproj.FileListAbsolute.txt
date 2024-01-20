@@ -1,0 +1,10 @@
+D:\杨中科ASP.NET\异步编程\IOC\IOC概念\DI_综合案例\LogServices\bin\Debug\netstandard2.1\LogServices.deps.json
+D:\杨中科ASP.NET\异步编程\IOC\IOC概念\DI_综合案例\LogServices\bin\Debug\netstandard2.1\LogServices.dll
+D:\杨中科ASP.NET\异步编程\IOC\IOC概念\DI_综合案例\LogServices\bin\Debug\netstandard2.1\LogServices.pdb
+D:\杨中科ASP.NET\异步编程\IOC\IOC概念\DI_综合案例\LogServices\obj\Debug\netstandard2.1\LogServices.csproj.AssemblyReference.cache
+D:\杨中科ASP.NET\异步编程\IOC\IOC概念\DI_综合案例\LogServices\obj\Debug\netstandard2.1\LogServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\杨中科ASP.NET\异步编程\IOC\IOC概念\DI_综合案例\LogServices\obj\Debug\netstandard2.1\LogServices.AssemblyInfoInputs.cache
+D:\杨中科ASP.NET\异步编程\IOC\IOC概念\DI_综合案例\LogServices\obj\Debug\netstandard2.1\LogServices.AssemblyInfo.cs
+D:\杨中科ASP.NET\异步编程\IOC\IOC概念\DI_综合案例\LogServices\obj\Debug\netstandard2.1\LogServices.csproj.CoreCompileInputs.cache
+D:\杨中科ASP.NET\异步编程\IOC\IOC概念\DI_综合案例\LogServices\obj\Debug\netstandard2.1\LogServices.dll
+D:\杨中科ASP.NET\异步编程\IOC\IOC概念\DI_综合案例\LogServices\obj\Debug\netstandard2.1\LogServices.pdb
