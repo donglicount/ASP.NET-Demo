@@ -6,7 +6,7 @@ namespace ConfigServices
 {
     public class EnvVarConfigService:IConfigSevrvice
     {
-        public string GetValu(string name)
+        public string GetValue(string name)
         {
             return Environment.GetEnvironmentVariable(name);
         }

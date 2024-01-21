@@ -13,7 +13,9 @@ namespace ConsoleAppMailSender
             ServiceCollection services = new ServiceCollection();
             //services.AddScoped<IConfigSevrvice, EnvVarConfigService>();
             //services.AddScoped(typeof(IConfigSevrvice),s=> new IniFileConfigService{FilePath=$"D:\\杨中科ASP.NET\\异步编程\\IOC\\IOC概念\\DI_综合案例\\ConsoleAppMailSender\\Mail.ini"});
+            services.AddScoped<IConfigSevrvice, EnvVarConfigService>();
             services.AddIniFileConfig($"D:\\杨中科ASP.NET\\异步编程\\IOC\\IOC概念\\DI_综合案例\\ConsoleAppMailSender\\Mail.ini");
+            services.AddLayerConfig();
             services.AddScoped<IMailService, MailService>();
             //services.AddScoped<ILogProvider, ConsoleLogProvider>();
             services.AddConsoleLog();

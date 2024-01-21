@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0c5cb2ac-fc80-4c5f-9a2c-1b0601a0e217": {
+      "ProjectGuid": "0c5cb2ac-fc80-4c5f-9a2c-1b0601a0e217",
+      "DisplayName": "依赖注入_服务的生命周期",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
